@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLGcNjXPxmr3HktxsskSdcARmWW6MaEpDPqbqgsqKfEAzBXf7gkQX9cl2+NZsP1CATY+dtUuBS1fuk0bUvpe+w==",
+  "success": true,
+  "projectFilePath": "/Users/ryancontento/1-DEV/Projects/BoardGameCollectionAPI/BoardGameCollectionAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryancontento/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ryancontento/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ryancontento/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/ryancontento/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/ryancontento/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/ryancontento/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
